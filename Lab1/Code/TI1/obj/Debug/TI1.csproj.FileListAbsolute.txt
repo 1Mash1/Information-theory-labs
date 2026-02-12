@@ -1,0 +1,13 @@
+D:\Code\TI1\bin\Debug\TI_1.exe.config
+D:\Code\TI1\bin\Debug\TI_1.exe
+D:\Code\TI1\bin\Debug\TI_1.pdb
+D:\Code\TI1\obj\Debug\TI1.csproj.AssemblyReference.cache
+D:\Code\TI1\obj\Debug\TI_1.exe.config
+D:\Code\TI1\obj\Debug\TI_1.MainForm.resources
+D:\Code\TI1\obj\Debug\TI_1.HelpForm.resources
+D:\Code\TI1\obj\Debug\TI_1.Properties.Resources.resources
+D:\Code\TI1\obj\Debug\TI_1.StartForm.resources
+D:\Code\TI1\obj\Debug\TI1.csproj.GenerateResource.cache
+D:\Code\TI1\obj\Debug\TI1.csproj.CoreCompileInputs.cache
+D:\Code\TI1\obj\Debug\TI_1.exe
+D:\Code\TI1\obj\Debug\TI_1.pdb
