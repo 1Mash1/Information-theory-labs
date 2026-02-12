@@ -1,0 +1,24 @@
+D:\БГУИР МАША\2 КУРС\ТИ\TI\TI_1\TI_1\obj\Debug\TI_1.csproj.AssemblyReference.cache
+D:\TI_1\TI_1\obj\Debug\TI_1.csproj.AssemblyReference.cache
+D:\TI_1\TI_1\bin\Debug\TI_1.exe.config
+D:\TI_1\TI_1\bin\Debug\TI_1.exe
+D:\TI_1\TI_1\bin\Debug\TI_1.pdb
+D:\TI_1\TI_1\obj\Debug\TI_1.Form1.resources
+D:\TI_1\TI_1\obj\Debug\TI_1.Properties.Resources.resources
+D:\TI_1\TI_1\obj\Debug\TI_1.csproj.GenerateResource.cache
+D:\TI_1\TI_1\obj\Debug\TI_1.csproj.CoreCompileInputs.cache
+D:\TI_1\TI_1\obj\Debug\TI_1.exe
+D:\TI_1\TI_1\obj\Debug\TI_1.pdb
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\bin\Debug\TI_1.exe.config
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\bin\Debug\TI_1.exe
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\bin\Debug\TI_1.pdb
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\obj\Debug\TI_1.csproj.AssemblyReference.cache
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\obj\Debug\TI_1.exe.config
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\obj\Debug\TI_1.Properties.Resources.resources
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\obj\Debug\TI_1.csproj.GenerateResource.cache
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\obj\Debug\TI_1.csproj.CoreCompileInputs.cache
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\obj\Debug\TI_1.exe
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\obj\Debug\TI_1.pdb
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\obj\Debug\TI_1.StartForm.resources
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\obj\Debug\TI_1.HelpForm.resources
+D:\БГУИР МАША\2 КУРС\ТИ\ЛБ\TI_1\TI_1\obj\Debug\TI_1.MainForm.resources
