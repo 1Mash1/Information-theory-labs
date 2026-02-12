@@ -1,2 +1,2 @@
 # Information-theory-labs
-# Information-theory-labs
+## Лабораторные работы по предмету "Теория информации"
